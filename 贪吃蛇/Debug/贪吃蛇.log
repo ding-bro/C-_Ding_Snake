@@ -1,0 +1,5 @@
+﻿  snake.cpp
+  贪吃蛇.cpp
+F:\VS.C++\贪吃蛇\贪吃蛇\贪吃蛇.cpp(40,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  贪吃蛇.vcxproj -> F:\VS.C++\贪吃蛇\Debug\贪吃蛇.exe
